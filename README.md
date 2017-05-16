@@ -1,2 +1,2 @@
-# TourTravel-Enjoy-our-service
-This is an Asp.net web service's on Tour-travel-Enjoy our service,and the scope of the project is to move on it to MVC(Model-View-Controller) framework.
+# Toor_and-travell
+This is an Asp.net Assignment on E-commerce and E-shopping undertaken by  Karabi Software
