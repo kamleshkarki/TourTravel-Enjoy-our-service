@@ -1056,7 +1056,7 @@
                     </div>
                 </div>
                 <div class="copyright">
-                        <p>&copy; Copyright 2017-18. Visit ::<a href="http://kamleshkarki.webutu.com/"> Kamlesh Singh karki</a></p>
+                        <p>&copy; Copyright 2017-18. Visit ::<a href="http://kamleshkarki.webutu.com/"> Kamlesh karki</a></p>
                 </div>
             </div>
             <!-- //footer_bottom -->
