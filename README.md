@@ -1,2 +1,4 @@
 # Toor_and-travell
-This is an Asp.net Assignment is under_going MVC that is on "E-commerce and E-shopping" undertaken by  Karabi Software
+This is an project Assignment by Karabi Software, that include "E-commerce and E-shopping".
+using of Asp.net or SQL server for the backend to develope this task.
+
